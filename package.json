@@ -1,0 +1,26 @@
+{
+  "name": "shop-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@rocketseat/eslint-config": "^1.2.0",
+    "@stitches/react": "^1.2.8",
+    "axios": "^1.4.0",
+    "keen-slider": "^6.8.5",
+    "next": "13.4.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "stripe": "^12.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "@types/react": "^18.2.13",
+    "typescript": "^5.1.3"
+  }
+}
